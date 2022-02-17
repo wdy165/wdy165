@@ -1,8 +1,8 @@
-### Hi there 👋
-
-** FRONT END DEVELOPER **
-** Begin Delphi **
-
+### 👋👋👋👋👋👋👋👋👋👋👋👋
+```
+- FRONT END DEVELOPER
+- Begin Delphi
+```
 <!--
 **wdy165/wdy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
