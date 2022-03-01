@@ -1,6 +1,6 @@
 ### 👋👋👋👋👋👋👋👋👋👋👋👋
 ```
-- FRONT END DEVELOPER (JAVA)
+- FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
 - Begin Delphi
 ```
