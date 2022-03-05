@@ -3,6 +3,7 @@
 ```
 - FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
+- studying BakJoon Algorithm 
 - Begin Delphi (Web, Mobile[fireMonkey])
 ```
 <!--
