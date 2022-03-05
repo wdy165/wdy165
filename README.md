@@ -1,8 +1,9 @@
 ### 👋👋👋👋👋👋👋👋👋👋👋👋
+😄 WonDongYeon 😄
 ```
 - FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
-- Begin Delphi
+- Begin Delphi (Web, Mobile[fireMonkey])
 ```
 <!--
 **wdy165/wdy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
