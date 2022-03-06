@@ -3,6 +3,7 @@
 📫 Use IDE
 1. Android Studio
 2. Eclipse (Luna)
+3. RAD Studio 10.2 (Berlin)
 ```
 - FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
