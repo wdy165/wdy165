@@ -1,7 +1,6 @@
 😄 WonDongYeon 👋
 😄 Work in SCL (Seoul Clinical Labotories)
 ```
-
 - FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
 - studying BakJoon Algorithm 
