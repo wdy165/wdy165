@@ -3,9 +3,14 @@
 😄 Work in SCL (Seoul Clinical Labotories)
 
 📫 Use IDE
-1. Android Studio
-2. Eclipse (Luna)
-3. RAD Studio 10.2 (Berlin)
+1. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+2. ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) < ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) >
+4. RAD Studio 10.2 (Berlin)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#Introduce
+---
 ```
 - JAVA FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
