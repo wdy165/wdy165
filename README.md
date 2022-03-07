@@ -7,7 +7,7 @@
 2. Eclipse (Luna)
 3. RAD Studio 10.2 (Berlin)
 ```
-- FRONT END DEVELOPER (JS, JQUERY ...)
+- JAVA FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
 - studying BakJoon Algorithm 
 - Begin Delphi (Web, Mobile[fireMonkey])
