@@ -8,7 +8,6 @@
 4. RAD Studio 10.2 (Berlin)
 
 ## Database
----
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Introduce
