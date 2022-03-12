@@ -16,7 +16,7 @@ Introduce
 - JAVA FRONT END DEVELOPER (JS, JQUERY ...)
 - Web, Mobile(Android)
 - studying BakJoon Algorithm 
-- Begin Delphi (Web, Mobile[fireMonkey])
+- Begin Delphi (Web, Mobile[FireMonkey])
 ```
 <!--
 **wdy165/wdy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
