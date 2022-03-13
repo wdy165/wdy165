@@ -1,6 +1,6 @@
 😄 WonDongYeon 👋
 
-😄 Work in SCL (Seoul Clinical Labotories)
+😄 Work in SHC (Seoul Clinical Labotories Healthcare)
 
 📫 Use IDE
 1. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
