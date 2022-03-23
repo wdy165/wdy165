@@ -3,7 +3,7 @@
 😄 Work in SCL Healthcare (Seoul Clinical Labotories Healthcare)
 
 ## Use IDE
-!.[Delphi](https://img.shields.io/badge/-Delphi-red)
+https://img.shields.io/badge/-Delphi-red
 1. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 2. ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 3. RAD Studio 10.1 Update2 (Berlin)
